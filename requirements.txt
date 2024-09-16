@@ -1,0 +1,12 @@
+Flask
+Flask_Cors
+chromadb
+pypdf
+langchain_community
+huggingface-hub
+torch
+sentence-transformers==2.2.2
+ibm_watsonx_ai
+langchain_ibm
+python-dotenv==1.*
+InstructorEmbedding
